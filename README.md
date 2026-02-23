@@ -187,12 +187,6 @@ python visualize_results.py
 
 ---
 
-##  License
-
-MIT License
-
----
-
 ##  Author
 
 **Yuvasri K**  
